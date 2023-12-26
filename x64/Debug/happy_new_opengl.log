@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\souln\source\repos\kg\happy_new_opengl\happy_new_opengl\main.cpp(317,73): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\souln\source\repos\kg\happy_new_opengl\happy_new_opengl\main.cpp(496,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  happy_new_opengl.vcxproj -> C:\Users\souln\source\repos\kg\happy_new_opengl\happy_new_opengl\x64\Debug\happy_new_opengl.exe

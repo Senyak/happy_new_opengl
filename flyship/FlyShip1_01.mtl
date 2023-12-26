@@ -1,0 +1,17 @@
+# Blender MTL File: 'FS1_0002.blend'
+# Material Count: 1
+
+newmtl map_FlyShip_001
+Ns 4.865918
+Ka 1.000000 1.000000 1.000000
+Kd 0.143552 0.154546 0.216518
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump map_FlyShip_001_Normal.png
+map_Kd map_FlyShip_001_BaseColor3.png
+map_Ke map_FlyShip_001_Emissive.png
+map_Ns map_FlyShip_001_Roughness.png
+refl map_FlyShip_001_Metallic.png
